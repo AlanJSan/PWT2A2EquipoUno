@@ -57,6 +57,13 @@ main img{
     bottom: 73px
 }
 
+.respuesta{
+    font-size: 100px;
+    position: relative;
+    top: 150px;
+    padding-bottom: 300px;
+}
+
 table{
     border-collapse: collapse;
     display: inline-block;
